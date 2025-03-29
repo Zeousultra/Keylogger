@@ -23,7 +23,7 @@ By using this project, you agree to use it **legally and responsibly**. The crea
 ### Cloning the Repository
 If this project is hosted on GitHub, clone it using:
 ```bash
-git clone github.com/Zeousultra/Keylogger
+git clone https://github.com/Zeousultra/Keylogger
 ```
 Navigate to the project directory:
 ```bash
