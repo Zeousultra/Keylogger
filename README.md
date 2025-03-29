@@ -33,9 +33,9 @@ cd Keylogger
 ### Running the Keylogger
 1. Open a terminal or command prompt.
 2. Run the script using:
-   ```bash
-   python keylogger.py
-   ```
+ ```bash
+ python keylogger.py
+ ```
 3. Press `ESC` to stop logging.
 4. The log file will be saved in the same directory.
 
