@@ -23,11 +23,11 @@ By using this project, you agree to use it **legally and responsibly**. The crea
 ### Cloning the Repository
 If this project is hosted on GitHub, clone it using:
 ```bash
-git clone https://github.com/Zeousultra/PRODIGY_CS_04
+git clone https://github.com/Zeousultra/Keylogger
 ```
 Navigate to the project directory:
 ```bash
-cd PRODIGY_CS_04
+cd Keylogger
 ```
 
 ### Running the Keylogger
